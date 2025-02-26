@@ -47,5 +47,5 @@ make CHIP=bl808 BOARD=bl808dk CPU_ID=d0
 ## Flash
 
 ```
-make flash CHIP=chip_name COMX=xxx # xxx is your com name
+make flash CHIP=bl616 COMX=xxx # xxx is your com name
 ```

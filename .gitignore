@@ -19,3 +19,4 @@ chiptest
 **/_build
 **/img_create_iot
 docs/zh/_static/**
+toolchain_gcc_t-head_linux/
